@@ -1,0 +1,22 @@
+{
+  "name": "pintu-test",
+  "version": "1.0.0",
+  "description": "engineering test for pintu.co.id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dels07/pintu-test.git"
+  },
+  "author": "deli.soetiawan@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dels07/pintu-test/issues"
+  },
+  "homepage": "https://github.com/dels07/pintu-test#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
